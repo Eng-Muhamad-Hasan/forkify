@@ -12,7 +12,7 @@ if (module.hot) {
 }
 // NEW API URL (instead of the one shown in the video)
 // https://forkify-api.jonas.io
-
+//* MVC Pattern : 
 ///////////////////////////////////////
 const controlRecipe = async function () {
   try {
