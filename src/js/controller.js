@@ -7,9 +7,9 @@ import paginationView from './views/paginationView.js';
 import resultsView from './views/resultsView.js';
 import bookmarksView from './views/bookmarksView.js';
 import addRecipeView from './views/addRecipeView.js';
-if (module.hot) {
-  module.hot.accept();
-}
+// if (module.hot) {
+//   module.hot.accept();
+// }
 // NEW API URL (instead of the one shown in the video)
 // https://forkify-api.jonas.io
 //* MVC Pattern : 
